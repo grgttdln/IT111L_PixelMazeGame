@@ -1,0 +1,6 @@
+C:\Users\Georgette\Desktop\IT111L_Game\FontGameCollection\bin\Debug\FontGameCollection.dll
+C:\Users\Georgette\Desktop\IT111L_Game\FontGameCollection\bin\Debug\FontGameCollection.pdb
+C:\Users\Georgette\Desktop\IT111L_Game\FontGameCollection\obj\Debug\FontGameCollection.csproj.AssemblyReference.cache
+C:\Users\Georgette\Desktop\IT111L_Game\FontGameCollection\obj\Debug\FontGameCollection.csproj.CoreCompileInputs.cache
+C:\Users\Georgette\Desktop\IT111L_Game\FontGameCollection\obj\Debug\FontGameCollection.dll
+C:\Users\Georgette\Desktop\IT111L_Game\FontGameCollection\obj\Debug\FontGameCollection.pdb
