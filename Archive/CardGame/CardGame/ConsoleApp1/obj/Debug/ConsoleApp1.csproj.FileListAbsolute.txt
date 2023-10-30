@@ -1,0 +1,10 @@
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Georgette\Desktop\IT111L_GAMEPROJ\CardGame\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
