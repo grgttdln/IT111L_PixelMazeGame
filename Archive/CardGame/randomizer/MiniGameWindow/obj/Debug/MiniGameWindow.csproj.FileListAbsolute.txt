@@ -1,0 +1,8 @@
+C:\Users\Georgette\Desktop\IT111L_Game\MiniGameWindow\bin\Debug\MiniGameWindow.dll
+C:\Users\Georgette\Desktop\IT111L_Game\MiniGameWindow\bin\Debug\MiniGameWindow.pdb
+C:\Users\Georgette\Desktop\IT111L_Game\MiniGameWindow\obj\Debug\MiniGameWindow.csproj.AssemblyReference.cache
+C:\Users\Georgette\Desktop\IT111L_Game\MiniGameWindow\obj\Debug\MiniGameWindow.csproj.CoreCompileInputs.cache
+C:\Users\Georgette\Desktop\IT111L_Game\MiniGameWindow\obj\Debug\MiniGameWindow.dll
+C:\Users\Georgette\Desktop\IT111L_Game\MiniGameWindow\obj\Debug\MiniGameWindow.pdb
+C:\Users\Georgette\Desktop\IT111L_Game\MiniGameWindow\obj\Debug\MiniGameWindow.MiniGameResources.resources
+C:\Users\Georgette\Desktop\IT111L_Game\MiniGameWindow\obj\Debug\MiniGameWindow.csproj.GenerateResource.cache
