@@ -1,0 +1,81 @@
+﻿using MiniGameCardMemory;
+using MiniGameLogicQuiz;
+using MiniGameRiddles;
+using MiniGameRPS;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Drawing;
+
+namespace IT111L_Game
+{
+    internal class TrapLogic
+    {
+        public static GameInfo gInfo = new GameInfo();
+
+        private Random random = new Random();
+
+
+        public bool TrapMiniGameRandomizer()
+        {
+            bool isEscape = false;
+            int randomMiniGame = random.Next(0, 4);
+
+            Console.WriteLine(randomMiniGame);
+
+            switch (randomMiniGame)
+            {
+                case 0:
+                    QuizGameMain miniGameQuiz = new QuizGameMain(gInfo.Level);
+                    miniGameQuiz.MiniGameMainDisplay();
+                    isEscape = miniGameQuiz.IsWin;
+                    
+                    break;
+                case 1:
+                    CardGameMain miniGameCard = new CardGameMain(gInfo.Level);
+                    miniGameCard.MiniGameMainDisplay();
+                    isEscape = miniGameCard.IsWin;
+                    
+                    break;
+
+                case 2:
+                    RiddleMain miniGameRiddles = new RiddleMain(gInfo.Level);
+                    miniGameRiddles.MiniGameMainDisplay();
+                    isEscape = miniGameRiddles.IsWin;
+                    
+                    break;
+
+                case 3:
+                    RPSMain miniGameRPS = new RPSMain(gInfo.Level);
+                    miniGameRPS.MiniGameMainDisplay();
+                    isEscape = miniGameRPS.IsWin;
+                    
+                    break;
+
+            }
+
+            return isEscape;
+        }
+
+        public void TrapPauseFunction()
+        {
+            //level1Timer.PauseGameTimer();
+            //Timer.gameMainTimer.Stop();
+            NewGame.level_1.Level1_MainPanel.Focus();
+            Program.gInfo.Pause = true;
+
+        }
+
+        public void GameContinueFunction()
+        {
+            //level1Timer.ContPauseGameTimer();
+            //Timer.gameMainTimer.Start();
+            NewGame.level_1.Level1_MainPanel.Focus();
+            Program.gInfo.Pause = false;
+
+        }
+    }
+}
