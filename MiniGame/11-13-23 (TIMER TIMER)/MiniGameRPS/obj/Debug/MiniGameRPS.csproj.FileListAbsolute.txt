@@ -1,0 +1,78 @@
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\bin\Debug\MiniGameRPS.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\bin\Debug\MiniGameRPS.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\bin\Debug\FontGameCollection.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\bin\Debug\MiniGameWindow.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\bin\Debug\FontGameCollection.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\bin\Debug\MiniGameWindow.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.AssemblyReference.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\obj\Debug\MiniGameRPS.RPSResources.resources
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.GenerateResource.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CoreCompileInputs.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CopyComplete
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\obj\Debug\MiniGameRPS.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\IT111L_PixelQuest\MiniGameRPS\obj\Debug\MiniGameRPS.pdb
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\bin\Debug\MiniGameRPS.dll
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\bin\Debug\MiniGameRPS.pdb
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\bin\Debug\FontGameCollection.dll
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\bin\Debug\MiniGameWindow.dll
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\bin\Debug\FontGameCollection.pdb
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\bin\Debug\MiniGameWindow.pdb
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.AssemblyReference.cache
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\obj\Debug\MiniGameRPS.RPSResources.resources
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.GenerateResource.cache
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CoreCompileInputs.cache
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CopyComplete
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\obj\Debug\MiniGameRPS.dll
+C:\Users\Georgette\Desktop\IT111L_PixelQuest-main\GameFiles\MiniGameRPS\obj\Debug\MiniGameRPS.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\bin\Debug\MiniGameRPS.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\bin\Debug\MiniGameRPS.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\bin\Debug\FontGameCollection.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\bin\Debug\MiniGameWindow.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\bin\Debug\FontGameCollection.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\bin\Debug\MiniGameWindow.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.AssemblyReference.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\obj\Debug\MiniGameRPS.RPSResources.resources
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.GenerateResource.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CoreCompileInputs.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CopyComplete
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\obj\Debug\MiniGameRPS.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\grgttdln IT111L_PixelMazeGame main MiniGame-IT111-1L20pause)\MiniGame\IT111-1L (withh pause)\MiniGameRPS\obj\Debug\MiniGameRPS.pdb
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\bin\Debug\MiniGameRPS.dll
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\bin\Debug\MiniGameRPS.pdb
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\bin\Debug\FontGameCollection.dll
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\bin\Debug\MiniGameWindow.dll
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\bin\Debug\FontGameCollection.pdb
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\bin\Debug\MiniGameWindow.pdb
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.AssemblyReference.cache
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\obj\Debug\MiniGameRPS.RPSResources.resources
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.GenerateResource.cache
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CoreCompileInputs.cache
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CopyComplete
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\obj\Debug\MiniGameRPS.dll
+C:\Users\Georgette\Desktop\New folder (4)\IT111L_PixelQuest-main\WithTrapFunctionality\MiniGameRPS\obj\Debug\MiniGameRPS.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\bin\Debug\MiniGameRPS.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\bin\Debug\MiniGameRPS.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\bin\Debug\FontGameCollection.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\bin\Debug\MiniGameWindow.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\bin\Debug\FontGameCollection.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\bin\Debug\MiniGameWindow.pdb
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.AssemblyReference.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\obj\Debug\MiniGameRPS.RPSResources.resources
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.GenerateResource.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CoreCompileInputs.cache
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CopyComplete
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\obj\Debug\MiniGameRPS.dll
+C:\Users\itswi\Documents\Computer Science (2nd Year)\1ST TERM\IT111L\MACHINE PROBLEM FILES\PIXEL_QUEST (NOV 12)\MiniGameRPS\obj\Debug\MiniGameRPS.pdb
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\bin\Debug\MiniGameRPS.dll
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\bin\Debug\MiniGameRPS.pdb
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\bin\Debug\FontGameCollection.dll
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\bin\Debug\MiniGameWindow.dll
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\bin\Debug\FontGameCollection.pdb
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\bin\Debug\MiniGameWindow.pdb
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.AssemblyReference.cache
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\obj\Debug\MiniGameRPS.RPSResources.resources
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.GenerateResource.cache
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CoreCompileInputs.cache
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\obj\Debug\MiniGameRPS.csproj.CopyComplete
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\obj\Debug\MiniGameRPS.dll
+C:\Users\Georgette\Desktop\New folder (5)\MiniGameRPS\obj\Debug\MiniGameRPS.pdb
