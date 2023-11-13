@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{816D6095-4BC6-4D11-920E-ACAC73BD8E2D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>IT111L_Game</RootNamespace>
+    <AssemblyName>IT111L_Game</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GameTimeMain.cs" />
+    <Compile Include="Level3.cs" />
+    <Compile Include="Level2.cs" />
+    <Compile Include="Door.cs" />
+    <Compile Include="Key.cs" />
+    <Compile Include="TrapLogic.cs" />
+    <Compile Include="Trap.cs" />
+    <Compile Include="Coin.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="GameInfo.cs" />
+    <Compile Include="Level1.cs" />
+    <Compile Include="NewGame.cs" />
+    <Compile Include="PGMM_GameStart.cs" />
+    <Compile Include="PGMM_Leaderboards.cs" />
+    <Compile Include="PixelGameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelGameLeaderboards.cs" />
+    <Compile Include="PixelGameMain.cs" />
+    <Compile Include="PixelGameMainMenu.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Timer.cs" />
+    <Compile Include="Wall.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FontGameCollection\FontGameCollection.csproj">
+      <Project>{25a2450a-f545-4a4f-bc89-97cdacf539b2}</Project>
+      <Name>FontGameCollection</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MiniGameCardMemory\MiniGameCardMemory.csproj">
+      <Project>{8f6e7cd7-c89b-447d-b5dc-631c1df03dd1}</Project>
+      <Name>MiniGameCardMemory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MiniGameLogicQuiz\MiniGameLogicQuiz.csproj">
+      <Project>{7b58aa57-7eb5-41e9-a2d4-2efa8d892f8c}</Project>
+      <Name>MiniGameLogicQuiz</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MiniGameRiddles\MiniGameRiddles.csproj">
+      <Project>{096a19c3-9bca-44ae-a0d1-64bc57c330a2}</Project>
+      <Name>MiniGameRiddles</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MiniGameRPS\MiniGameRPS.csproj">
+      <Project>{4a0ce099-e319-4232-ba2a-aae9c5c505b1}</Project>
+      <Name>MiniGameRPS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MiniGameWindow\MiniGameWindow.csproj">
+      <Project>{11f71c70-414c-4237-be5d-7e25d4d3dd6c}</Project>
+      <Name>MiniGameWindow</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right_lose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front_lose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall_horizontal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall_vertical.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall_vertical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall_verticalR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall_horizontal_long.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall_vertical_long.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall_verticalR_long.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trap.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
