@@ -1,6 +1,0 @@
-C:\Users\Georgette\Desktop\IT111L_Game\GameFileHandler\bin\Debug\GameFileHandler.dll
-C:\Users\Georgette\Desktop\IT111L_Game\GameFileHandler\bin\Debug\GameFileHandler.pdb
-C:\Users\Georgette\Desktop\IT111L_Game\GameFileHandler\obj\Debug\GameFileHandler.csproj.AssemblyReference.cache
-C:\Users\Georgette\Desktop\IT111L_Game\GameFileHandler\obj\Debug\GameFileHandler.csproj.CoreCompileInputs.cache
-C:\Users\Georgette\Desktop\IT111L_Game\GameFileHandler\obj\Debug\GameFileHandler.dll
-C:\Users\Georgette\Desktop\IT111L_Game\GameFileHandler\obj\Debug\GameFileHandler.pdb
