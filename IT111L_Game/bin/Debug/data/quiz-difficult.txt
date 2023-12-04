@@ -1,0 +1,24 @@
+How many Hz does the video standard PAL support?|51|52|53|50
+Which of these names was an actual codename for a cancelled Microsoft project?|Enceladus|Saturn|Pollux|Neptune
+Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?|Shellshock|Corrupted Blood|Shellscript|Heartbleed
+Who is the original author of the realtime physics engine called PhysX?|Ageia|Nvidia|AMD|NovodeX
+Which data structure does FILO apply to?|Queue|Heap|Tree|Stack
+What is the name of the process that sends one qubit of information using two bits of classical information?|Super Dense Coding|Quantum Entanglement|Quantum Programming|Quantum Teleportation
+Which RAID array type is associated with data mirroring?|RAID 2|RAID 10|RAID 3|RAID 1
+Dutch computer scientist Mark Overmars is known for creating which game development engine?|Construct|Stencyl|Torque 2D|Game Maker
+What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?|Session|Data link|Network|Transport
+What major programming language does Unreal Engine 4 use?|Assembly|C#|ECMAScript|C++
+Which of these is not a layer in the OSI model for data communications?|Application Layer|Transport Layer|Physical Layer|Connection Layer
+Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?|Cherry MX Black|Cherry MX Brown|Cherry MX Red|Cherry MX Blue
+Which kind of algorithm is Ron Rivest not famous for creating?|Hashing algorithm|Asymmetric encryption|Stream cipher|Secret sharing scheme
+What was the name of the security vulnerability found in Bash in 2014?|Heartbleed|Bashbug|Stagefright|Shellshock
+Which of these is not a key value of Agile software development?|Individuals and interactions|Customer collaboration|Responding to change|Comprehensive documentation
+What does the International System of Quantities refer 1024 bytes as?|Kylobyte|Kelobyte|Kilobyte|Kibibyte
+Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?|Puma|Tiger|Leopard|Cheetah
+Who invented the "Spanning Tree Protocol"|Paul Vixie|Michael Roberts|Vint Cerf|Radia Perlman
+Who is the founder of Palantir?|Mark Zuckerberg|Jack Dorsey|Marc Benioff|Peter Thiel
+What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?|Sandy Bridge|Skylake|Broadwell|Coffee Lake
+Which of the following computer components can be built using only NAND gates?|CPU|Register|RAM|ALU
+What type of sound chip does the Super Nintendo Entertainment System (SNES) have?|FM Synthesizer|Programmable Sound Generator (PSG)|PCM Sampler|ADPCM Sampler
+What port does HTTP run on?|23|44|53|80
+The Harvard architecture for micro-controllers added which additional bus?|Address|Data|Control|Instruction
